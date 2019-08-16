@@ -1,0 +1,497 @@
+#TITLE:Hier Kommt Kurt
+#ARTIST:Frank Zander
+#CREATOR:Eggman
+#EDITION:UltraStar Partykeller
+#GENRE:Pop
+#LANGUAGE:German
+#MP3:Frank Zander - Hier kommt Kurt.mp3
+#COVER:Frank Zander - Hier kommt Kurt [CO].jpg
+#VIDEO:Frank Zander - Hier Kommt Kurt.mp4
+#PREVIEWSTART:30,510
+#BPM:120
+#GAP:30510
+#YEAR:1989
+: 0 6 38 Hier
+: 6 5 38  kommt
+: 14 5 34  Kurt
+- 21
+: 43 2 34 Hier
+: 45 4 36  kommt
+: 49 5 36  Kurt
+- 56
+: 59 3 38 seit
+: 62 1 38  der
+: 63 1 38  Ge
+: 64 4 38 burt
+: 68 3 38  heiss
+: 71 1 34  ich
+: 72 4 34  Kurt
+- 76
+: 76 2 36 Hier
+: 78 2 36  kommt
+: 80 4 38  Kurt
+- 86
+: 93 2 38 Mi
+: 95 1 38 ster
+: 96 3 38  Knac
+: 99 2 38 kig
+: 101 2 34  hart
+: 103 1 34  wie
+: 104 4 36  Stahl
+- 108
+: 108 3 36 K!
+: 111 2 38  wie
+: 113 5 38  kernig
+: 118 1 38  und
+: 119 2 38  Ka
+: 121 2 38 no
+: 123 2 34 ne
+- 126
+: 126 2 34 ab
+: 128 4 36 solut
+: 132 2 36  und
+: 134 3 38  opti
+: 137 4 38 mal
+- 141
+: 141 3 38 Je
+: 144 2 38 de
+: 146 2 38  kennt
+: 148 3 34  mich
+: 151 2 34  je
+: 153 2 36 de
+: 155 2 36  will
+: 157 2 38  mich
+- 160
+: 160 2 38 Ob
+: 162 2 38  aus
+: 164 2 38  Liebe
+: 166 3 38  oder
+: 169 3 34  Zorn
+- 173
+: 174 3 34 wenn
+: 177 1 36  sie
+: 178 3 36  sehn
+: 181 2 38  was
+: 183 2 38  Kurt
+: 185 2 38  für'n
+: 187 3 34  Kerl
+: 190 3 34  ist
+- 193
+: 193 2 34 woll'n
+: 195 1 34  sie
+: 196 2 46  Kurt
+: 198 3 46  sofort
+: 201 5 34  von vorn
+- 207
+: 209 3 34 Alle
+: 212 4 34  rufen
+: 216 3 46  alle
+: 219 3 46  bluf
+: 222 2 34 fen
+: 224 3 34  alle
+: 227 2 34  schu
+: 229 2 46 ten
+: 231 3 46  um
+: 234 2 34  mich
+: 236 3 34  rum
+- 240
+: 240 2 34 al
+: 242 2 34 le
+: 244 2 34  jo
+: 246 3 34 deln
+: 249 3 46  alle
+: 252 3 34  sin
+: 255 2 38 gen
+- 258
+: 258 1 34 und
+: 259 2 36  nur
+: 261 2 36  ich
+: 263 2 38  all
+: 265 2 38 ein
+: 267 2 38  bleib
+: 269 4 38  stumm
+- 275
+: 283 2 38 Wa
+: 285 5 34 rum?
+: 296 2 34  Es
+: 298 1 36  gibt
+: 299 1 36  nur
+: 300 1 38  eine
+: 301 3 38  Ant
+: 304 1 38 wort
+: 305 2 38  Freun
+: 307 2 38 de
+- 310
+: 310 5 36 Hier
+: 317 7 38  kommt
+: 326 7 38  Kurt
+- 335
+: 353 3 34 Hier
+: 356 2 36  kommt
+: 358 4 36  Kurt
+- 364
+: 371 4 38 ohne
+: 375 3 38  Helm
+: 378 2 38  und
+: 380 3 38  ohne
+: 383 5 38  Gurt
+: 388 2 34  ein
+: 390 2 34 fach
+: 392 5 36  Kurt
+- 399
+: 404 2 36 der
+: 406 2 38  nicht
+: 408 2 38  quen
+: 410 2 37 gelt
+: 412 2 38  und
+: 414 2 38  nicht
+: 416 4 34  murrt
+- 420
+: 420 2 34 Ich
+: 422 2 36  bin
+: 424 4 36  Kurt
+: 428 3 38  der
+: 431 6 38  Coole
+- 437
+: 437 3 38  das
+: 440 3 38  Ge
+: 443 2 38 nerve
+: 445 2 34  macht
+: 447 2 34  mich
+: 449 4 36  krank
+- 453
+: 453 2 36 Währ
+: 455 3 38 rend
+: 458 2 38  and'
+: 460 1 38 re
+: 461 2 38  un
+: 463 2 38 ten
+: 465 2 34  wu
+: 467 3 34 steln
+- 471
+: 471 2 34 geh
+: 473 1 36  ich
+: 474 3 36  locker
+: 477 3 38  oben
+: 480 3 38  lang
+: 485 3 38  Ich
+: 488 2 38  bin
+: 490 3 38  Kurt
+- 493
+: 493 2 34 der
+: 495 7 34  Brüller
+: 502 2 36  ab
+: 504 6 36 soluter
+: 510 4 38  Mega
+: 514 4 38  Knall
+- 518
+: 518 3 38 Bat
+: 521 2 38 man
+: 523 4 38  ist'n
+: 527 2 34  Pau
+: 529 2 34 sen
+: 531 5 36 füller
+- 536
+: 536 2 36 ge
+: 538 2 38 gen
+: 540 1 38  mich
+: 541 2 38  nur
+: 543 2 38  Lull
+: 545 1 38  und
+: 546 5 34  Lall
+- 552
+: 553 2 34 Bin
+: 555 1 36  der
+: 556 3 36  Schic
+: 559 5 38 keria
+: 564 4 38  King
+- 568
+: 568 2 38 je
+: 570 2 38 der
+: 572 2 38  kennt
+: 574 2 34  mich
+: 576 3 34  ganz
+: 579 3 36  genau
+- 583
+: 584 3 36 Nachts
+: 587 1 36  da
+: 588 3 38  such
+: 591 1 38  ich
+: 592 2 38  mei
+: 594 2 38 ne
+: 596 2 38  Son
+: 598 3 34 ne
+- 601
+: 601 2 34 und
+: 603 2 36  zu
+: 605 2 36  Hau
+: 607 1 38 se
+: 608 2 38  mei
+: 610 1 38 ne
+: 611 4 38  Frau
+- 617
+: 619 2 38 Und
+: 621 2 34  kräht
+: 623 2 34  der
+: 625 4 36  erste
+: 629 2 36  Goc
+: 631 2 38 kel
+- 633
+: 633 2 38 wer
+: 635 2 38 de
+: 637 3 34  ich
+: 640 1 34  die
+: 641 3 34  Nacht
+: 644 2 46  ver
+: 646 2 46 dau
+: 648 2 34 'n
+- 651
+: 651 3 34 ich
+: 654 2 34  pack
+: 656 2 46  mich
+: 658 2 46  ins
+: 660 4 34  Sola
+: 664 4 34 rium
+- 668
+: 668 2 34 und
+: 670 2 46  schlaf
+: 672 2 46  mich
+: 674 4 34  dunkel
+: 678 3 34 braun
+- 682
+: 682 3 34 Alle
+: 685 3 34  het
+: 688 3 46 zen
+: 691 3 34  alle
+: 694 2 38  fet
+: 696 3 37 zen
+- 699
+: 699 3 36 alle
+: 702 3 35  boc
+: 705 2 34 ken
+: 707 2 33  um
+: 709 2 32  mich
+: 711 3 31  rum
+- 715
+: 715 4 38 alle
+: 719 2 37  jum
+: 721 2 36 pen
+: 723 4 35  alle
+: 727 2 33  reg
+: 729 3 33 gaen
+- 732
+: 732 2 33 und
+: 734 1 33  nur
+: 735 3 33  ich
+: 738 2 33  all
+: 740 1 33 ein
+: 741 3 33  sitz
+: 744 2 33  rum
+- 748
+: 750 2 38 Wa
+: 752 4 38 rum
+- 758
+: 772 2 34 Das
+: 774 2 34  sag'ch
+: 776 2 36  Euch
+: 778 3 36  später
+: 783 3 38  erst
+: 786 1 38  mal
+: 787 1 38 'n
+: 788 1 38  So
+: 789 1 38 l
+: 790 2 34 o
+: 794 4 34  Paul
+- 800
+: 891 4 38 Haha
+: 895 2 38 ha
+: 897 3 38  j
+: 900 5 34 a
+: 907 4 34  hier
+: 911 4 36  kommt
+: 915 6 36  Kurt
+- 923
+: 928 2 38 oh
+: 930 2 34 ne
+: 932 3 34  Helm
+: 935 1 36  und
+: 936 4 36  ohne
+: 940 4 38  Gurt
+- 944
+: 944 2 38  ein
+: 946 2 38 fach
+: 948 5 38  Kurt
+- 955
+: 958 3 38 Der 
+: 961 3 34 vorne
+: 964 4 34  bellt
+: 968 2 36  und
+: 970 3 36  hinten
+: 973 4 38  knurrt
+- 979
+: 981 2 38 Wer
+: 983 1 38  war
+: 984 3 38  das
+: 989 2 38  Geh
+: 991 1 34  aus
+: 992 2 34  meinem
+: 994 5 36  Leben
+- 1001
+: 1009 3 36 Wo
+: 1012 2 38  ich
+: 1014 2 38  auf
+: 1016 2 38 tauch
+: 1018 2 38  taucht
+: 1020 2 38  man
+: 1022 4 34  unter
+- 1027
+: 1028 2 34 wo
+: 1030 1 36  ich
+: 1031 2 36  rein
+: 1033 2 38 komm
+: 1035 2 38  geht
+: 1037 2 38  man
+: 1039 3 34  raus
+- 1043
+: 1044 2 34 wo
+: 1046 1 34  ich
+: 1047 2 46  Platz
+: 1049 2 46  nehm
+: 1051 2 34  wird'n
+: 1053 3 34  Platz
+: 1056 3 34  frei
+- 1060
+: 1060 2 46 was
+: 1062 2 46  ich
+: 1064 2 34  an
+: 1066 2 34 pack
+: 1068 2 34  pack
+: 1070 2 46  ich
+: 1072 3 46  aus
+- 1075
+: 1075 4 34 Alle
+: 1079 3 34  fei
+: 1082 2 34 ern
+: 1084 3 34  alle
+: 1087 3 36  lei
+: 1090 2 36 ern
+- 1092
+: 1092 3 38 alle
+: 1095 5 38  eiern
+: 1100 2 34  um
+: 1102 2 34  mich
+: 1104 3 36  rum
+- 1108
+: 1108 4 36 alle
+: 1112 2 38  roc
+: 1114 2 38 ken
+: 1116 3 38  alle
+: 1119 3 38  zoc
+: 1122 2 38 ken
+- 1124
+: 1124 2 34 ich
+: 1126 2 34  mach
+: 1128 4 36  keinen
+: 1132 3 36  Fin
+: 1135 2 38 ger
+: 1137 4 38  krumm
+- 1143
+: 1152 5 38 Warum?
+: 1165 2 38  Ich
+: 1167 2 34  habs
+: 1169 2 34  ein
+: 1171 2 36 fach
+: 1173 2 36  nicht
+: 1175 3 38  nö
+: 1178 3 38 tig
+: 1181 3 38  Freu
+: 1184 1 38 de
+- 1185
+: 1185 5 38 Hier
+: 1190 4 34  kommt
+: 1194 4 34  Kurt
+- 1200
+: 1202 3 36 Das
+: 1205 2 36  wollt
+: 1207 2 38  ich
+: 1209 4 38  hör'n
+: 1214 3 38  ha
+: 1217 4 38  ha
+- 1221
+: 1221 3 38 Hier
+: 1224 3 34  kommt
+: 1227 4 34  Kurt
+: 1239 4 36  ohne
+: 1243 3 36  Helm
+: 1246 2 38  und
+: 1248 2 38  oh
+: 1250 1 38 ne
+: 1251 5 38  Gurt
+- 1256
+: 1256 2 38 und
+: 1258 2 34  wo
+: 1260 2 34  Kurt
+: 1262 2 36  ist
+: 1264 2 36  tobt
+: 1266 2 38  das
+: 1268 2 38  Leb
+: 1270 2 38 en
+- 1272
+: 1272 2 38 Kurt
+: 1274 2 38  ist
+: 1276 2 34  da
+: 1278 2 34  wo
+: 1280 2 36  alle
+: 1282 3 36  sind
+- 1286
+: 1288 3 38 Bei 
+: 1291 4 38  Kurt
+: 1295 2 38  gibt's
+: 1297 2 38  keine
+: 1299 3 38  Flau
+: 1302 3 34 ten
+- 1305
+: 1305 2 34 Kurt
+: 1307 1 36  hat
+: 1308 2 36  im
+: 1310 2 38 mer
+: 1312 2 38  Rücken
+: 1314 4 38 wind
+- 1319
+: 1320 3 40 Kurt
+: 1323 2 40  ist
+: 1325 2 36  lei
+: 1327 2 36 se
+: 1329 2 38  aber
+: 1331 3 38  wich
+: 1334 3 40 tig
+- 1337
+: 1337 2 40  im
+: 1339 2 40 mer
+: 1341 3 40  hier
+: 1344 2 40  und
+: 1346 2 36  über
+: 1348 3 36 all
+- 1352
+: 1354 2 38 Kurt
+: 1356 2 38  kennt
+: 1358 4 40  alle
+: 1362 3 40  doch
+: 1365 1 40  nicht
+: 1366 2 40  rich
+: 1368 3 40 tig
+- 1372
+: 1372 1 36 doch
+: 1373 2 36  das
+: 1375 1 38  ist
+: 1376 2 38  dem
+: 1378 3 40  Kurt
+: 1381 4 40  egal
+- 1387
+: 1396 3 40 Schluß
+: 1399 4 40  jetzt
+: 1406 3 40  Kurt
+: 1409 2 36  will
+: 1411 2 36  tan
+: 1413 3 38 zen
+E

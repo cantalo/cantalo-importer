@@ -1,0 +1,303 @@
+#TITLE:The ballad of Chasey Lane
+#ARTIST:Bloodhound Gang
+#EDITION:Bloodhound Gang
+#MP3:Bloodhound Gang - The ballad of Chasey Lane.mp3
+#COVER:Bloodhound Gang - The ballad of Chasey Lane [CO].jpg
+#BACKGROUND:Bloodhound Gang - The ballad of Chasey Lane [BG].jpg
+#VIDEO:Bloodhound Gang - The ballad of Chasey Lane.avi
+#VIDEOGAP:-0,51
+#BPM:135
+#GAP:13000
+: 0 3 68 Dear 
+: 4 2 68 Chas
+: 6 4 66 ey 
+: 10 3 68 Lain
+- 13
+: 14 1 68 I 
+: 16 3 68 wrote 
+: 20 1 68 to 
+: 22 3 66 ex
+: 26 3 68 plain 
+- 29
+: 32 1 68 I'm 
+: 34 2 66 your 
+: 36 2 68 big
+: 38 4 66 gest 
+: 42 6 64 fan
+- 48
+: 62 1 68 I 
+: 64 1 68 ju
+: 66 1 66 st 
+: 68 1 68 want
+: 70 1 68 ed 
+: 72 2 66 to 
+: 74 2 68 ask
+- 79
+: 80 2 68 could 
+: 82 1 66 I 
+: 84 1 68 eat 
+: 86 3 66 your 
+: 90 3 68 ass
+- 93
+: 94 1 68 write 
+: 96 2 68 back 
+: 98 1 66 as 
+: 100 1 68 soon 
+: 102 2 68 as 
+: 104 2 66 you 
+: 106 5 64 can
+- 112
+: 138 2 68 You've 
+: 140 2 68 had 
+: 142 2 66 a 
+: 144 2 68 lot
+: 146 2 66 ta 
+: 148 7 68 dick
+- 155
+: 156 2 68 Had 
+: 158 2 68 a 
+: 160 2 64 lot
+: 162 2 64 ta 
+: 164 5 59 dick
+- 169
+: 170 2 68 I've 
+: 172 2 69 had 
+: 174 2 69 a 
+: 176 2 69 lot
+: 178 2 69 ta 
+: 180 5 69 time
+- 185
+: 188 2 71 had 
+: 190 2 71 a 
+: 192 2 68 lot
+: 194 2 68 ta 
+: 196 5 63 time
+- 201
+: 202 2 63 You've 
+: 204 2 68 had 
+: 206 2 66 a 
+: 208 2 68 lot
+: 210 2 66 ta 
+: 212 2 68 dick 
+: 214 4 66 Chas
+: 218 4 68 ey 
+- 221
+: 225 2 68 but 
+: 227 2 66 you 
+: 229 2 68 ain't 
+: 231 4 68 had 
+: 235 3 61 mine
+- 240
+: 256 5 68 Dear 
+: 261 2 68 Chas
+: 263 3 66 ey 
+: 266 4 68 Lain
+- 270
+: 271 2 68 I 
+: 273 3 68 wrote 
+: 277 2 68 to 
+: 279 3 66 com
+: 282 4 68 plain 
+- 287
+: 288 2 68 you 
+: 290 2 68 ne
+: 292 2 66 ver 
+: 294 2 68 wrote 
+: 296 2 66 me 
+: 299 5 64 back 
+- 310
+: 322 2 66 How 
+: 324 2 68 could 
+: 326 2 68 I 
+: 328 4 66 ever 
+: 332 2 68 eat 
+: 336 2 68 your 
+: 338 4 66 ass 
+- 341
+: 342 2 68 when 
+: 344 2 66 you 
+: 347 3 68 treat 
+: 352 3 68 your 
+: 355 1 68 big
+: 356 2 66 gest 
+: 358 2 68 fan 
+: 360 4 66 like 
+: 364 4 64 that 
+- 370
+: 396 2 68 You've 
+: 398 2 66 had 
+: 400 2 68 a 
+: 402 4 66 lotta 
+: 406 6 68 dick 
+- 414
+: 415 2 68 Had 
+: 417 2 68 a 
+: 419 2 64 lot
+: 421 2 64 ta 
+: 423 5 59 dick
+- 426
+: 429 2 69 I've 
+: 431 2 69 had 
+: 433 2 69 a 
+: 435 4 69 lotta 
+: 439 5 69 time
+- 441
+: 447 2 71 Had 
+: 449 2 68 a 
+: 451 3 68 lotta 
+: 454 5 63 time
+- 458
+: 461 2 68 You've 
+: 463 2 66 had 
+: 465 2 68 a 
+: 467 2 66 lot
+: 469 2 68 ta 
+: 471 2 66 dick 
+: 473 4 68 Chas
+: 477 2 68 ey
+- 479
+: 483 2 68 But 
+: 485 2 66 you 
+: 487 2 68 ain't 
+: 489 3 68 had 
+: 492 6 61 mine
+- 500
+: 516 2 68 Dear 
+: 518 4 66 Chas
+: 522 2 68 ey 
+: 524 4 68 Lain
+- 528
+: 529 2 68 I 
+: 531 4 68 wrote 
+: 535 2 66 to 
+: 538 2 68 con
+: 540 4 68 strain
+- 544
+: 545 2 68 This 
+: 547 2 66 let
+: 549 2 68 ter 
+: 551 2 66 is 
+: 553 3 66 my 
+: 556 6 64 last 
+- 565
+: 580 2 68 as 
+: 582 2 68 your 
+: 584 2 66 big
+: 586 3 68 gest 
+: 590 4 68 fan
+- 594
+: 597 2 66 I 
+: 599 3 68 must 
+: 602 3 66 de
+: 605 4 68 man
+- 608
+: 610 2 68 you 
+: 612 2 66 let 
+: 614 2 68 me 
+: 616 2 68 eat 
+: 618 3 66 your 
+: 621 5 64 ass
+- 625
+: 655 2 66 You've 
+: 657 2 66 had 
+: 659 2 68 a 
+: 661 3 66 lotta 
+: 664 7 68 dick
+- 668
+: 673 2 68 Had 
+: 675 2 64 a 
+: 677 3 64 lotta 
+: 680 5 59 dick
+- 684
+: 687 2 69 I've 
+: 689 2 69 had 
+: 691 2 69 a 
+: 693 3 69 lotta 
+: 696 6 69 time
+- 703
+: 705 2 71 Had 
+: 707 2 68 a 
+: 709 3 68 lotta 
+: 712 6 63 time
+- 716
+: 719 2 68 You've 
+: 721 2 66 had 
+: 723 2 68 a 
+: 725 2 66 lot
+: 727 2 68 ta 
+: 729 2 66 dick 
+: 731 4 68 Chas
+: 735 3 68 ey
+- 740
+: 741 1 66 but 
+: 742 2 66 you 
+: 744 3 68 ain't 
+: 747 4 68 had 
+: 751 4 61 mine
+- 765
+: 777 4 66 P.
+: 781 4 68 S. 
+: 785 4 63 Mum 
+: 789 2 63 and 
+: 791 4 63 dad 
+- 795
+: 796 2 63 this 
+: 798 2 63 is 
+: 800 6 64 Chasey
+- 808
+: 809 7 63 Chasey 
+: 818 3 64 this 
+: 821 3 66 is 
+: 824 2 64 my 
+: 826 2 64 mom 
+: 828 3 63 and 
+: 831 5 64 dad
+- 837
+: 837 4 63 now 
+: 841 3 64 show 
+: 844 2 64 'em 
+: 846 3 68 them 
+: 849 2 64 tit
+: 851 16 64 ties
+- 869
+: 870 2 64 now 
+: 872 6 68 show 'em 
+: 878 3 64 them 
+: 881 15 66 titties
+- 901
+: 906 4 66 P.
+: 910 4 68 S. 
+: 914 3 63 Mum 
+: 917 3 63 and 
+: 920 5 63 dad
+- 919
+: 924 3 63 this 
+: 927 2 64 is 
+: 929 6 63 Chasey
+- 937
+: 938 7 64 Chasey 
+: 946 3 66 this 
+: 950 2 64 is 
+: 952 2 64 my 
+: 954 3 63 mom 
+: 957 3 64 and 
+: 960 5 63 dad
+- 965
+: 966 3 64 now 
+: 969 5 64 show 'em 
+: 974 4 68 them 
+: 978 2 64 tit
+: 980 10 64 ties
+- 991
+: 998 4 64 now 
+: 1002 4 68 show 'em 
+: 1006 4 64 them 
+: 1010 12 66 titties
+- 1027
+: 1031 1 54 Would 
+: 1032 1 54 you 
+: 1033 2 54 fuck 
+: 1035 2 54 me 
+: 1037 2 52 for 
+: 1039 4 49 blow?
+E

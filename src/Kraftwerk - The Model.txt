@@ -1,0 +1,161 @@
+#TITLE:The Model
+#ARTIST:Kraftwerk
+#GENRE:Synth-Pop
+#LANGUAGE:English
+#MP3:Kraftwerk - The Model.mp3
+#COVER:Kraftwerk - The Model[CO].jpg
+#VIDEO:Kraftwerk - The Model.mp4
+#PREVIEWSTART:16,111
+#BPM:120,3
+#GAP:400
+#YEAR:1978
+: 126 4 69 She's 
+: 130 3 69 a 
+: 133 2 69 mo
+: 135 2 72 del 
+: 137 2 71 and 
+: 139 2 69 she's 
+: 141 6 71 loo
+: 147 2 67 king 
+: 149 4 64 good 
+- 155
+: 186 2 64 I'd 
+: 188 4 69 like 
+: 192 3 69 to 
+: 195 2 69 take 
+: 197 2 72 her 
+: 199 2 71 home 
+: 201 2 69 that's 
+: 203 7 71 un
+: 210 1 67 der
+: 211 5 64 stood 
+- 218
+: 248 2 64 She 
+: 250 2 69 plays 
+: 253 2 69 hard 
+: 255 2 69 to 
+: 257 2 69 get, 
+- 259
+: 259 2 72 she 
+: 261 2 71 smiles 
+: 263 3 69 from 
+: 266 4 71 time 
+: 271 2 67 to 
+: 273 5 64 time 
+- 280
+: 310 2 64 It 
+: 312 2 69 on
+: 314 2 69 ly 
+: 316 2 69 takes 
+: 318 2 69 a 
+: 320 1 69 ca
+: 321 2 72 me
+: 323 2 71 ra 
+: 325 2 69 to 
+: 327 6 71 change 
+: 333 2 67 her 
+: 335 5 64 mind 
+- 342
+: 496 2 64 She's 
+: 498 2 69 go
+: 500 2 69 ing 
+: 502 2 69 out 
+: 504 2 69 to
+: 506 2 69 night, 
+- 508
+: 508 2 72 loves 
+: 510 2 71 drink
+: 512 2 69 ing 
+: 514 5 71 just 
+: 519 2 67 champ
+: 521 5 64 agne 
+- 528
+: 558 2 64 And 
+: 560 4 69 she 
+: 564 2 69 has 
+: 566 2 69 been 
+: 568 2 69 check
+: 570 2 72 ing 
+: 572 2 69 near
+: 574 2 69 ly 
+: 576 6 71 all 
+: 582 2 67 the 
+: 584 5 64 men 
+- 591
+: 620 2 64 She's 
+: 622 4 69 play
+: 626 2 69 ing 
+: 628 2 69 her 
+: 630 2 69 game 
+: 632 1 72 and 
+: 633 2 71 you 
+: 635 3 69 can 
+: 638 5 71 hear 
+: 643 2 67 them 
+: 645 5 64 say 
+- 652
+: 683 3 69 She 
+: 686 2 69 is 
+: 688 2 69 look
+: 690 2 69 ing 
+: 692 2 69 good 
+: 694 1 72 for 
+: 695 2 71 beau
+: 697 3 69 ty 
+: 700 6 71 we 
+: 706 2 67 will 
+: 708 5 64 pay 
+- 715
+: 1241 2 64 She's 
+: 1243 2 69 po
+: 1245 2 69 sing 
+: 1247 2 69 for 
+: 1249 2 69 con
+: 1251 2 69 su
+: 1253 2 72 mer 
+: 1255 2 71 pro
+: 1257 2 69 ducts 
+: 1259 6 71 now 
+: 1265 2 67 and 
+: 1267 5 64 then 
+- 1274
+: 1303 2 64 For 
+: 1305 2 69 ev'
+: 1307 2 69 ry 
+: 1309 2 69 ca
+: 1311 2 69 me
+: 1313 2 69 ra 
+: 1315 2 72 she 
+: 1317 2 71 gives 
+: 1319 2 69 the 
+: 1321 6 71 best 
+: 1327 2 67 she 
+: 1329 5 64 can 
+- 1336
+: 1366 2 64 I 
+: 1368 2 69 saw 
+: 1370 2 69 her 
+: 1372 2 69 on 
+: 1374 2 69 the 
+: 1376 1 69 co
+: 1377 2 72 ver 
+: 1379 2 71 of 
+: 1381 2 69 a 
+: 1383 6 71 ma
+: 1389 2 67 ga
+: 1391 5 64 zine 
+- 1398
+: 1428 2 64 Now 
+: 1430 2 69 she's 
+: 1432 2 69 a 
+: 1434 2 69 big 
+: 1436 1 69 suc
+: 1437 2 69 cess 
+: 1439 2 72 I 
+: 1441 2 71 want 
+: 1443 2 69 to 
+: 1445 4 71 meet 
+: 1449 2 71 her 
+: 1451 2 67 a
+: 1453 5 64 gain 
+E

@@ -1,0 +1,288 @@
+#ARTIST:Das Dschungelbuch
+#TITLE:Probiers Mal Mit Gem�tlichkeit
+#MP3:Das Dschungelbuch - Probiers Mal Mit Gem�tlichkeit.mp3
+#EDITION:SingStar Disney
+#BPM:350
+#GAP:7371,43
+#VIDEO:Das Dschungelbuch - Probiers Mal Mit Gemuetlichkeit [VD#0].avi
+: 0 4 55 Pro
+: 7 4 57 biers
+: 14 4 60  mal
+: 27 12 64  mit
+: 41 4 62  Ge
+: 47 3 64 müt
+: 53 2 62 lich
+: 57 7 60 keit
+- 65
+: 66 3 60 Mit
+: 72 3 62  Ru
+: 78 4 60 he
+* 85 4 62  und
+: 92 4 60  Ge
+: 98 4 62 müt
+: 104 3 60 lich
+: 108 4 57 keit
+- 114
+: 120 3 55 Jagst
+: 125 3 60  du
+: 131 4 60  den
+: 136 5 60  All
+: 144 3 64 tag
+- 149
+: 152 4 69 Und
+: 158 4 67  die
+: 165 4 65  Sor
+: 171 5 64 gen
+: 177 4 62  weg
+- 183 184
+: 210 4 67 Und
+: 217 4 69  wenn
+: 223 5 67  du
+: 237 10 69  stets
+: 251 4 67  ge
+: 256 3 69 müt
+: 262 2 67 lich
+: 266 5 64  bist
+- 272
+: 273 7 60 Und
+: 282 3 62  et
+: 288 4 60 was
+: 295 3 62  ap
+: 302 3 60 pe
+* 308 5 67 tit
+: 314 3 60 lich
+: 318 8 60  ist
+- 327
+: 327 4 62 Dann
+: 334 3 64  nimm
+: 340 4 67  es
+: 347 4 64  dir
+- 352
+: 353 3 67 E
+: 357 2 64 gal
+: 366 3 60  von
+: 372 5 57  wel
+: 378 5 55 chem
+: 385 3 60  Fleck
+- 390 399
+: 419 4 60 Was
+: 424 4 59  soll
+: 429 3 59  ich
+: 433 6 57  wo
+: 440 10 55 an
+* 450 7 62 ders
+- 459 460
+F 472 2 60 Wo's
+F 478 2 60  mir
+F 483 3 60  nicht
+F 487 11 60  gefällt?
+- 500 501
+F 523 5 55 Ich
+F 529 6 55  gehe
+F 536 5 55  nicht
+F 544 6 55  fort
+F 554 6 55  hier
+- 562 563
+: 576 7 62 Auch
+: 583 7 60  nicht
+: 590 5 62  für
+: 595 7 64  Geld
+- 604 605
+: 628 4 64 Die
+: 635 4 65  Bie
+: 641 5 67 nen
+: 648 4 69  sum
+: 654 4 69 men
+: 661 4 69  in
+: 667 5 65  der
+* 673 7 64  Luft
+- 681
+: 681 3 62 Er
+: 687 5 64 fül
+: 693 4 65 len
+: 700 5 67  sie
+: 707 3 67  mit
+: 713 4 67  Ho
+: 720 4 64 nig
+: 726 8 62 duft
+- 736
+: 744 4 60 Und
+* 751 3 64  schaust
+: 758 4 57  du
+- 763
+: 764 2 57 Un
+: 769 1 57 ter
+: 771 5 57  den
+: 778 4 64  Stein
+: 784 5 57  er
+: 791 4 57 blickst
+: 798 5 57  du
+- 804
+F 806 9 57 Ameisen
+F 825 2 57  die
+F 828 2 57  hier
+F 832 4 57  gut
+F 838 6 57  gedeihn
+- 846
+F 851 7 57 Probier
+F 860 9 57  mal
+F 876 2 57  zwei
+F 882 3 57  drei
+F 889 4 57  vier
+- 895 1078
+: 1098 4 64 Denn
+: 1105 4 65  mit
+: 1112 4 67  Ge
+: 1118 4 69 müt
+: 1123 2 69 lich
+* 1126 9 69 keit
+- 1136
+: 1138 5 65 Kommt
+: 1145 4 64  auch
+: 1151 4 62  das
+: 1157 4 60  Glück
+: 1163 4 59  zu
+: 1167 7 60  dir
+- 1176 1177
+: 1200 7 60 Es
+: 1210 5 57  kommt
+: 1217 3 59  zu
+: 1220 7 60  dir
+- 1229 1230
+: 1256 4 55 Pro
+: 1263 4 57 biers
+: 1269 4 60  mal
+* 1282 8 64  mit
+: 1295 4 62  Ge
+: 1302 4 64 müt
+: 1308 3 62 lich
+: 1312 9 60 keit
+- 1322
+: 1322 4 60 Mit
+: 1329 4 62  Ru
+: 1335 4 60 he
+: 1341 4 62  und
+: 1348 4 60  Ge
+: 1354 4 62 müt
+: 1360 3 60 lich
+: 1364 7 57 keit
+- 1373
+: 1377 4 55 Ver
+: 1381 3 60 treibst
+: 1386 3 60  du
+: 1390 8 60  dei
+: 1400 5 64 nen
+- 1406
+* 1406 5 69 Gan
+: 1412 5 67 zen
+: 1419 5 65  Sor
+: 1425 6 64 gen
+: 1432 7 62 kram
+- 1441 1442
+: 1464 4 67 Und
+: 1470 5 69  wenn
+: 1478 5 67  du
+: 1492 11 69  stets
+: 1505 4 67  ge
+: 1511 5 69 müt
+: 1517 3 67 lich
+: 1521 4 64  bist
+- 1526
+: 1527 8 60 Und
+: 1537 5 62  et
+: 1543 6 60 was
+: 1550 6 62  ap
+: 1556 6 60 pe
+: 1563 5 67 tit
+: 1569 3 60 lich
+: 1573 3 60  ist
+- 1578
+: 1583 6 62 Dann
+: 1590 5 64  nimm
+: 1596 4 67  es
+: 1602 5 64  dir
+: 1609 4 67  e
+: 1613 4 64 gal
+- 1619
+: 1622 4 60 Wo
+: 1627 7 57 her
+: 1635 6 55  es
+* 1641 4 60  kam
+- 1647 1648
+F 1673 3 55 Na
+F 1678 2 55  und
+F 1681 2 55  pflückst
+F 1687 2 55  du
+F 1691 2 55  gern
+F 1694 9 55  Beeren
+- 1705 1706
+F 1726 2 59 Und
+F 1730 2 59  du
+F 1734 3 59  piekst
+F 1739 3 59  dich
+F 1745 5 59  dabei
+- 1752 1753
+F 1780 3 55 Dann
+F 1785 3 55  lass
+F 1790 2 55  dich
+F 1794 11 55  belehren
+- 1807 1808
+F 1828 2 60 Schmerz
+F 1834 4 60  geht
+F 1842 6 60  bald
+F 1854 7 60  vorbei
+- 1863 1864
+F 1882 5 69 Du
+F 1888 5 69  musst
+F 1894 9 69  bescheiden
+- 1905 1906
+F 1914 4 69 Aber
+F 1921 3 69  nicht
+F 1927 7 69  gierig
+F 1937 4 69  im
+F 1942 5 69  Leben
+F 1950 3 69  sein
+- 1955
+F 1958 4 60 Sonst
+F 1965 2 60  tust
+F 1969 4 60  du
+F 1974 4 60  dir
+F 1979 5 60  weh
+- 1986 1987
+F 2000 4 60 Du
+F 2006 4 60  bist
+F 2012 9 60  verletzt
+F 2026 3 57  und
+F 2030 5 57  zahlst
+F 2039 2 57  nur
+F 2043 5 57  drauf
+- 2050
+F 2053 4 65 Darum
+F 2060 3 65  pflücke
+F 2068 2 65  gleich
+- 2072
+F 2077 3 65 Mit
+F 2081 2 65  dem
+F 2085 6 65  richtigen
+F 2097 4 65  Dreh
+- 2103 2104
+F 2122 2 60 Hast
+F 2125 2 60  du
+F 2128 2 60  das
+F 2132 5 60  jetzt
+F 2142 10 60  kapiert?
+- 2154 2190
+: 2210 4 64 Denn
+: 2217 4 65  mit
+: 2224 4 67  Ge
+: 2232 2 69 müt
+: 2236 2 69 lich
+: 2239 10 69 keit
+- 2250
+: 2251 5 65 Kommt
+: 2258 4 64  auch
+: 2264 5 62  das
+* 2271 6 60  Glück
+: 2278 4 59  zu
+: 2282 5 60  dir
+E

@@ -1,0 +1,609 @@
+#TITLE:Berlin City Girl
+#ARTIST:Culcha Candela
+#LANGUAGE:German
+#GENRE:HipHop Pop
+#YEAR:2010
+#MP3:Culcha Candela - Berlin City Girl.mp3
+#COVER:Culcha Candela - Berlin City Girl[CO].jpg
+#VIDEO:Culcha Candela - Berlin City Girl.mp4
+#PREVIEWSTART:52,940
+#MedleyStartBeat:816
+#MedleyEndBeat:1094
+#BPM:244
+#GAP:2450
+: 0 3 2 Oo
+: 4 7 0 ~
+: 12 3 -2 ~h
+- 17
+: 64 2 2 Ey
+: 68 6 0  yea
+: 76 3 -2 ~h
+- 81
+: 92 2 2 Sie
+: 96 2 0  is
+: 100 2 -2  'n
+: 104 6 -2  Ber
+: 112 4 -5 lin
+: 120 3 -2  Ci
+: 124 2 -2 ty
+: 128 6 -5  Girl
+- 136
+: 156 2 2 Sie
+: 160 2 0  is
+: 164 2 -2  'n
+: 168 6 -2  Ber
+: 176 4 -5 lin
+: 184 3 -2  Ci
+: 188 2 -2 ty
+: 192 3 -5  Gi
+: 196 4 -7 ~rl
+- 202
+: 220 2 2 Sie
+: 224 2 0  is
+: 228 2 -2  'n
+: 232 6 -2  Ber
+: 240 4 -5 lin
+: 248 3 -2  Ci
+: 252 2 2 ty
+* 256 6 0  Girl
+- 264
+: 284 2 -5 Und
+: 288 2 -2  sie
+: 292 4 2  weiß,
+: 300 2 2  dass
+: 304 2 2  ihr
+: 308 2 3  die
+: 312 2 2  Welt
+: 316 2 0  ge
+: 320 6 -2 hört
+- 328
+F 352 2 2 Sie
+F 356 4 2  ist
+F 364 2 2  so
+F 368 2 2  frech,
+F 372 2 2  so
+F 376 2 2  laut,
+F 380 2 2  so
+F 384 5 2  cool
+- 391
+F 396 2 2 Haut
+F 400 2 2  dich
+F 404 2 2  so
+F 408 2 2 fort
+F 412 2 2  vom
+F 416 6 2  Stuhl
+- 424
+F 428 2 2 So
+F 432 2 2  kess,
+F 436 2 2  so
+F 440 2 2  dreist,
+F 444 2 2  so
+F 448 6 2  fly
+- 456
+F 460 1 2 So
+F 462 1 2  ver
+F 464 2 2 dammt
+F 468 1 2  e
+F 470 1 2 le
+F 472 2 2 gant
+F 476 2 2  und
+F 480 4 2  heiß
+- 486
+F 492 2 2 Ne
+F 496 1 2  Kil
+F 498 1 2 la
+F 500 3 2 braut,
+F 508 3 2  r
+F 512 1 2 ~at
+F 514 1 2 ten
+F 516 3 2 scharf
+- 521
+F 524 2 2 So
+F 528 1 2  sa
+F 530 1 2 gen
+F 532 2 2 haft
+F 536 3 2  smart
+F 540 1 2  mit
+F 542 1 2  'ner
+F 544 1 2  Ham
+F 546 1 2 ma-
+F 548 4 2 Art
+- 554
+F 556 2 2 Sie
+F 560 2 2  sagt
+F 564 2 2  auch
+F 568 2 2  gern
+F 572 1 2  "Halt
+F 574 1 2  die
+F 576 3 2  Schnau
+F 580 1 2 ze
+F 582 2 2  jetzt!"
+- 586
+F 588 1 2 Du
+F 590 1 2  be
+F 592 2 2 stellst
+F 596 2 2  10
+F 600 2 2  Drinks
+F 604 1 2  und
+F 606 1 2  sie
+F 608 2 2  haut
+F 612 1 2  sie
+F 614 3 2  weg
+- 618
+F 620 3 2 Gro
+F 624 2 2 ße
+F 627 3 2  Klap
+F 631 2 2 pe,
+F 635 2 2  viel
+F 638 1 2  da
+F 640 3 2 hin
+F 644 2 2 ter
+- 647
+F 648 2 2 Schmeckt
+F 652 1 2  wie
+F 654 1 2  der
+F 656 3 2  Som
+F 660 1 2 mer,
+F 662 1 2  is
+F 664 3 2  cool
+F 668 1 2  wie
+F 670 1 2  der
+F 672 3 2  Win
+F 676 2 2 ter
+- 680
+F 684 2 2 Wat
+F 687 2 2  ne
+F 690 2 2  Wucht,
+F 694 1 2  das
+F 696 2 2  sieht
+F 700 1 2  auch
+F 702 1 2  'n
+F 704 3 2  Blin
+F 708 2 2 der
+- 712
+F 714 1 2 Du
+F 716 2 2  siehst
+F 720 2 2  sie
+F 723 2 2  und
+F 726 1 2  du
+F 728 2 2  weißt:
+F 732 1 2  "Ich
+F 734 1 2  will
+F 736 3 2  Kin
+F 740 3 2 der!"
+- 745
+: 748 2 2 Sie
+: 752 2 0  ist
+: 756 2 2  die
+: 760 3 0  Axt
+: 766 3 -2  im
+: 772 5 -5  Wald
+- 778
+: 780 2 2 So
+: 784 3 0  Bom
+: 788 2 2 be,
+: 792 3 0  dass
+: 798 3 -2  es
+: 804 5 -5  knallt
+- 811
+: 816 2 -2 Sie
+: 820 2 -5  läuft
+: 824 2 -2  durch
+: 828 2 -5  den
+: 832 2 -2  Kiez
+- 835
+: 836 2 -2 Und
+* 840 2 5  du
+: 844 2 3  bist
+: 848 2 2  gleich
+: 852 2 0  ver
+: 856 2 -2 liebt
+- 859
+: 860 2 2 Sie
+: 864 2 0  is
+: 868 2 -2  'n
+: 872 6 -2  Ber
+: 880 4 -5 lin
+: 888 3 -2  Ci
+: 892 2 -2 ty
+: 896 6 -5  Girl
+- 904
+: 924 2 2 Sie
+: 928 2 0  is
+: 932 2 -2  'n
+: 936 6 -2  Ber
+: 944 4 -5 lin
+: 952 3 -2  Ci
+: 956 2 -2 ty
+: 960 3 -5  Gi
+: 964 4 -7 ~rl
+- 970
+: 988 2 2 Sie
+: 992 2 0  is
+: 996 2 -2  'n
+: 1000 6 -2  Ber
+: 1008 4 -5 lin
+: 1016 3 -2  Ci
+: 1020 2 2 ty
+: 1024 6 0  Girl
+- 1032
+: 1052 2 -5 Und
+: 1056 2 -2  sie
+* 1060 4 2  weiß,
+: 1068 2 2  dass
+: 1072 2 2  ihr
+: 1076 2 3  die
+: 1080 2 2  Welt
+: 1084 2 0  ge
+: 1088 6 -2 hört
+- 1096
+F 1132 2 2 Sie
+F 1136 3 2  rockt,
+F 1144 2 2  sie
+F 1148 1 2  hat
+F 1150 1 2  die
+F 1152 1 2  Ho
+F 1154 1 2 sen
+F 1156 3 2  an
+- 1161
+F 1164 1 2 Braucht
+F 1166 1 2  keinen
+F 1168 3 2  Mann
+F 1172 2 2  mit
+F 1176 2 2  2
+F 1180 1 2  Me
+F 1182 1 2 ter
+F 1184 1 2  O
+F 1186 1 2 ber
+F 1188 5 2 arm
+- 1194
+F 1194 1 2 Sie
+F 1196 2 2  liebt
+F 1200 1 2  Curr
+F 1202 1 2 y
+F 1204 2 2 wurst
+F 1208 2 2  heiß
+F 1212 2 2  und
+F 1216 1 2  fe
+F 1218 5 2 ttig
+- 1224
+F 1226 1 2 Und
+F 1228 2 2  scheißt
+F 1232 2 2  drauf,
+F 1236 1 2  sind
+F 1238 1 2  die
+F 1240 3 2  High
+F 1244 2 2  Heels
+F 1248 1 2  dre
+F 1250 5 2 ckig
+- 1257
+F 1264 1 2 Feu
+F 1266 1 2 er
+F 1268 4 2 zeug,
+F 1280 3 2  Bier
+F 1284 1 2 fla
+F 1286 3 2 sche,
+- 1290
+F 1292 1 2 wie
+F 1294 1 2  du
+F 1296 1 2  dei
+F 1298 1 2 ne
+F 1300 2 2  dann
+F 1304 3 2  auf
+F 1308 2 2 kriegst,
+F 1312 2 2  ihr
+F 1316 1 2  Lat
+F 1318 3 2 te
+- 1322
+F 1324 1 2 Und
+F 1326 1 2  der
+F 1328 3 2  Grund
+F 1334 1 2  war
+F 1336 1 2 um
+F 1338 1 2  ich
+F 1340 3 2  sie
+F 1344 1 2  dop
+F 1346 1 2 pelt
+F 1348 4 2  mag
+- 1353
+F 1354 1 2 Ist
+F 1356 1 2  weil
+F 1358 1 2  sie
+F 1360 3 2  manch
+F 1364 2 2 mal
+F 1368 2 2  so
+F 1372 2 2  süß
+F 1376 2 2  "Op
+F 1379 2 2 fer"
+F 1382 4 2  sagt
+- 1388
+F 1390 1 2 Auf
+F 1392 2 2  so
+F 1396 1 2  ei
+F 1398 1 2 ne
+F 1400 2 2  Braut
+F 1404 1 2  wür
+F 1406 1 2 de
+F 1408 1 2  je
+F 1410 1 2 der
+F 1412 2 2  war
+F 1415 2 2 ten
+- 1418
+F 1418 2 2 Bring
+F 1422 1 2  keinen
+F 1424 3 2  Strauß
+F 1428 2 2  mit,
+- 1432
+F 1434 1 2 schenk
+F 1436 1 2  ihr
+F 1438 1 2 'n
+F 1440 1 2  Schre
+F 1442 1 2 ber
+F 1444 2 2 gar
+F 1447 2 2 ten
+- 1450
+F 1450 3 2 Schick
+F 1454 1 2  ge
+F 1456 4 2 macht,
+F 1464 2 2  Sekt
+F 1468 1 2 pul
+F 1470 1 2 le
+F 1472 1 2  in
+F 1474 1 2  der
+F 1476 4 2  Hand
+- 1481
+: 1482 3 -2 1
+: 1486 1 -2 3
+: 1488 4 -2  Uhr,
+: 1496 2 0  so
+: 1500 2 2  geht
+: 1504 1 0  Ci
+: 1506 1 0 ty
+: 1508 4 -2  Brunch
+- 1514
+: 1516 3 2 Sie
+: 1520 2 0  macht
+: 1524 2 2  den
+: 1528 5 0  Style
+: 1535 3 -2  zum
+: 1540 5 -5  Trend
+- 1546
+: 1548 3 2 3
+: 1552 3 0 0
+: 1556 2 2 00
+: 1560 4 0  Face
+: 1566 3 -2 book
+: 1572 3 -5  Fans
+- 1577
+: 1584 3 -2 Sie
+: 1588 2 -5  läuft
+: 1592 2 -2  durch
+: 1596 2 -5  den
+: 1600 2 -2  Kiez
+- 1603
+: 1604 2 -2 Und
+: 1608 2 5  du
+: 1612 2 3  bist
+: 1616 2 2  gleich
+: 1620 3 0  ver
+: 1624 2 -2 liebt
+- 1627
+: 1628 2 2 Sie
+: 1632 2 0  is
+: 1636 2 -2  'n
+* 1640 6 -2  Ber
+: 1648 4 -5 lin
+: 1656 3 -2  Ci
+: 1660 2 -2 ty
+: 1664 6 -5  Girl
+- 1672
+: 1692 2 2 Sie
+: 1696 2 0  is
+: 1700 2 -2  'n
+: 1704 6 -2  Ber
+: 1712 4 -5 lin
+: 1720 3 -2  Ci
+: 1724 2 -2 ty
+: 1728 3 -5  Gi
+: 1732 4 -7 ~rl
+- 1738
+: 1756 2 2 Sie
+: 1760 2 0  is
+: 1764 2 -2  'n
+: 1768 6 -2  Ber
+: 1776 4 -5 lin
+: 1784 3 -2  Ci
+: 1788 2 2 ty
+: 1792 6 0  Girl
+- 1800
+: 1820 2 -5 Und
+: 1824 2 -2  sie
+: 1828 4 2  weiß,
+: 1836 2 2  dass
+: 1840 2 2  ihr
+: 1844 2 3  die
+: 1848 2 2  Welt
+: 1852 2 0  ge
+: 1856 6 -2 hört
+- 1864
+: 1884 2 2 Sie
+: 1888 2 0  is
+: 1892 2 -2  'n
+: 1896 6 -2  Ber
+: 1904 4 -5 lin
+: 1912 3 -2  Ci
+: 1916 2 -2 ty
+* 1920 6 -5  Girl
+- 1928
+: 1948 2 2 Sie
+: 1952 2 0  is
+: 1956 2 -2  'n
+: 1960 6 -2  Ber
+: 1968 3 -5 lin
+: 1976 3 -2  Ci
+: 1980 2 -2 ty
+: 1984 3 -5  Gi
+: 1988 7 -7 ~rl
+- 1997
+: 2012 2 -5 Und
+: 2016 2 -2  sie
+: 2020 5 2  weiß
+- 2027
+: 2044 2 -5 Und
+: 2048 2 -2  sie
+* 2052 5 2  weiß
+- 2059
+: 2076 2 -5 Und
+: 2080 2 -2  sie
+: 2084 5 2  weiß,
+: 2092 2 2  dass
+: 2096 2 2  ihr
+: 2100 3 3  die
+: 2104 4 2  Welt
+: 2112 3 0  ge
+: 2116 6 -2 hört
+- 2124
+: 2156 4 10 Ich
+: 2165 5 7  sah
+: 2173 4 3  so
+: 2181 5 5  viel
+: 2189 4 3  von
+: 2197 5 5  die
+: 2205 6 7 ser
+: 2213 5 0  Welt
+- 2219
+: 2221 4 10 Ich
+: 2229 5 7  sah
+: 2237 4 3  so
+: 2245 5 5  viel,
+: 2253 3 3  was
+: 2261 5 5  mir
+: 2269 4 7  ge
+: 2276 5 7 fällt
+- 2283
+: 2285 4 10 Jetzt
+: 2293 5 7  weiß
+: 2301 3 3  ich
+: 2308 5 5  auch,
+: 2316 4 10  dass
+: 2324 5 7  je
+: 2332 4 3 de
+: 2340 4 5  Stadt
+- 2346
+: 2349 5 10 So
+: 2357 5 7  wun
+: 2364 4 3 der
+* 2372 6 12 schö
+: 2380 3 10 ne
+: 2384 2 7 ~
+: 2388 4 7  Töch
+: 2396 5 10 ter
+: 2404 3 10  hat
+- 2409
+: 2420 2 2 Ob
+: 2424 3 0  Ost,
+: 2430 3 -2  ob
+: 2436 3 -5  West
+- 2441
+: 2452 2 2 Ob
+: 2456 4 0  Nord,
+: 2462 3 -2  ob
+: 2468 4 -5  Süd
+- 2474
+: 2484 2 2 Wir
+: 2488 3 0  woll'n
+: 2492 2 -2  euch
+: 2496 5 -2  hör'n
+- 2502
+* 2504 3 5 Al
+: 2508 2 3 le
+: 2512 3 2  Ci
+: 2516 2 0 ty
+: 2520 2 -2  Girls
+- 2523
+: 2524 3 2 Wo
+: 2528 2 0  sind
+: 2532 2 -2  die
+: 2536 6 -2  Ham
+: 2544 5 -5 burg
+: 2552 3 -2  Ci
+: 2556 2 -2 ty
+: 2560 7 -5  Girls?
+- 2569
+: 2588 3 2 Wo
+: 2592 2 0  sind
+: 2596 2 -2  die
+: 2600 5 -2  Mün
+: 2608 4 -5 chen
+: 2616 3 -2  Ci
+: 2620 2 -2 ty
+: 2624 3 -5  Gi
+* 2628 5 -7 ~rls?
+- 2635
+: 2648 3 2 Wo
+: 2652 2 3  sind
+: 2656 3 2  uns
+: 2660 2 0 're
+: 2664 6 -2  Köl
+: 2672 4 -5 ner
+: 2680 3 -2  Ci
+: 2684 2 2 ty
+: 2688 7 0  Girls?
+- 2697
+: 2720 3 -2 Und
+: 2724 2 0  die
+: 2728 5 2  Frank
+* 2736 5 3 furt
+: 2744 3 2  Ci
+: 2748 2 0 ty
+: 2752 7 -2  Girls?
+- 2761
+: 2772 2 -2 Wir
+: 2776 3 2  lie
+: 2780 2 3 ben
+: 2784 3 2  uns
+: 2788 2 0 're
+: 2792 5 -2  Stutt
+: 2800 5 -5 gart
+: 2808 3 -2  Ci
+: 2812 2 -2 ty
+: 2816 7 -5  Girls
+- 2825
+: 2836 2 -2 Wir
+: 2840 3 2  lie
+: 2844 2 3 ben
+: 2848 3 2  uns
+: 2852 2 0 're
+: 2856 6 -2  Dort
+: 2864 5 -5 mund
+: 2872 3 -2  Ci
+: 2876 2 -2 ty
+: 2880 3 -5  Gi
+: 2884 5 -7 ~rls
+- 2891
+: 2904 3 2 Wo
+: 2908 2 3  sind
+* 2912 3 5  uns
+: 2916 2 2 're
+: 2920 2 -2  Düs
+: 2924 3 -2 sel
+: 2928 5 -5 dorf
+: 2936 3 -2  Ci
+: 2940 2 2 ty
+: 2944 7 0  Girls?
+- 2953
+: 2972 2 -2 Und
+: 2976 3 -2  uns
+: 2980 2 0 're
+: 2984 5 2  Leip
+: 2992 5 3 zig
+: 3000 3 2  Ci
+: 3004 2 0 ty
+: 3008 5 -2  Girls?
+- 3014
+: 3016 3 5 Al
+: 3020 2 3 le
+: 3024 3 2  Ci
+: 3028 2 0 ty
+: 3032 5 -2  Girls
+E

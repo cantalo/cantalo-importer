@@ -1,0 +1,249 @@
+#TITLE:Sky And Sand
+#ARTIST:Paul Kalkbrenner
+#GENRE:Electronic
+#LANGUAGE:English
+#MP3:Paul Kalkbrenner - Sky And Sand.mp3
+#COVER:Paul Kalkbrenner - Sky And Sand[CO].jpg
+#VIDEO:Paul Kalkbrenner - Sky And Sand.mp4
+#PREVIEWSTART:45,671
+#MedleyStartBeat:993
+#MedleyEndBeat:1657
+#BPM:508
+#GAP:15600
+#YEAR:2010
+: 1 7 8 In
+: 9 3 5  the
+: 15 6 8  night
+: 22 12 5  time
+- 41
+: 130 5 8 When
+: 137 3 5  the
+: 143 8 8  world
+: 154 4 5  is
+: 160 4 5  at
+: 168 4 3  it's
+: 175 10 3  rest
+- 191
+: 259 3 1 You
+: 264 4 3  will
+: 270 6 3  find
+: 278 6 1  me
+- 293
+: 387 4 1 In
+: 393 3 1  the
+: 399 6 3  place
+: 407 6 5  I
+: 417 6 3  know
+: 424 3 1  the
+: 430 10 3  best
+- 447
+: 512 7 8 Danc
+: 520 4 5 in'
+: 526 7 8  shout
+: 534 4 5 in'
+- 548
+: 626 8 8 Fly
+: 636 3 8 in'
+: 642 5 5  to
+: 649 3 3  the
+: 654 8 3  moon
+- 669
+: 761 6 1 Don't
+: 770 5 3  have
+: 777 3 5  to
+: 782 6 3  wor
+: 789 5 1 ry
+- 801
+: 872 7 0 'Cause
+: 882 6 1  all
+: 890 5 3  be
+: 897 4 5  come
+: 902 5 6  back
+: 909 10 8  soon
+- 923
+: 993 6 1 And
+: 1001 8 1  we
+: 1025 5 8  build
+: 1031 4 5  up
+: 1037 10 8  cast
+: 1049 10 5 les
+- 1064
+: 1088 6 8 In
+: 1096 4 8  the
+: 1102 7 5  sky
+: 1111 4 6  and
+: 1119 4 5  in
+: 1127 4 3  the
+: 1134 10 3  sand
+- 1147
+: 1274 5 5 De
+: 1281 7 8 sign
+: 1290 3 5  our
+: 1294 5 8  own
+: 1302 10 5  world
+- 1318
+: 1343 5 8 Ain't
+: 1351 5 5  no
+: 1359 5 5 bo
+: 1367 5 6 dy
+: 1375 5 5  un
+: 1381 5 3 der
+: 1389 10 3 stand
+- 1409
+: 1529 4 8 I
+: 1538 5 10  found
+: 1545 4 12  my
+: 1550 7 13 self
+: 1560 4 8  a
+: 1566 6 5 live
+- 1569
+: 1598 6 8 In
+: 1607 5 5  the
+: 1616 5 5  palm
+: 1622 6 6 ~
+: 1630 4 5  of
+: 1637 7 3  your
+: 1647 10 3  hand
+- 1665
+: 1786 5 1  As
+: 1794 5 8  long
+: 1800 5 5  as
+: 1807 6 8  we
+: 1815 4 5  are
+: 1822 10 5  flyin'
+- 1837
+: 1857 5 8 All
+: 1864 4 5  this
+: 1870 7 5  world
+: 1879 6 6  ain't
+: 1887 6 5  got
+: 1895 6 3  no
+: 1903 10 3  end
+- 1920
+: 1953 5 5 All
+: 1960 4 6  this
+: 1966 7 5  world
+: 1974 6 3  ain't
+: 1981 6 5  got
+: 1990 6 3  no
+: 1998 12 3  end
+- 2028
+: 4099 3 8 In
+: 4104 3 5  the
+: 4110 7 8  day
+: 4119 10 5  time
+- 4134
+: 4225 4 8 You
+: 4232 3 5  will
+: 4238 7 8  find
+: 4247 5 5  me
+: 4254 6 5  by
+: 4262 5 3  your
+: 4271 10 3  side
+- 4289
+: 4352 6 1 Try
+: 4359 2 1 in'
+: 4363 2 3  to
+: 4367 5 3  do
+: 4375 5 1  my
+: 4383 10 1  best
+- 4400
+: 4496 6 1 Try
+: 4503 2 1 in'
+: 4507 2 3  to
+: 4511 5 3  make
+: 4519 5 1  things
+: 4527 10 3  right
+- 4548
+: 4612 4 8 When
+: 4619 2 5  it
+: 4624 4 3  all
+: 4632 5 3  turns
+: 4640 9 1  wrong
+- 4658
+: 4756 5 8 There's
+: 4763 3 5  no
+: 4768 6 5  fault
+: 4776 4 3  but
+: 4783 10 3  mine
+- 4802
+: 4865 5 5 But
+: 4873 2 3  it
+: 4880 4 3  won't
+: 4887 4 3  hit
+: 4894 10 3  hard
+- 4909
+: 5005 4 5 'Cause
+: 5012 4 3  you
+: 5019 4 5  will
+: 5025 4 3  let
+: 5032 3 3  me
+: 5038 10 3  shine
+- 5054
+: 5089 6 1 And
+: 5097 8 1  we
+: 5121 5 8  build
+: 5127 4 5  up
+: 5133 10 8  cast
+: 5145 10 5 les
+- 5162
+: 5185 6 8 In
+: 5193 4 8  the
+: 5199 6 5  sky
+: 5208 4 6  and
+: 5216 4 5  in
+: 5222 4 3  the
+: 5229 10 3  sand
+- 5250
+: 5371 5 5 De
+: 5378 7 8 sign
+: 5387 3 5  our
+: 5392 5 8  own
+: 5399 10 5  world
+- 5412
+: 5439 5 8 Ain't
+: 5447 5 5  no
+: 5455 5 5 bo
+: 5463 5 6 dy
+: 5471 5 5  un
+: 5478 4 3 der
+: 5484 10 3 stand
+- 5507
+: 5626 4 8 I
+: 5635 5 10  found
+: 5642 4 12  my
+: 5647 7 13 self
+: 5657 4 8  a
+: 5663 6 5 live
+- 5677
+: 5696 6 8 In
+: 5705 5 8  the
+: 5714 5 5  palm
+: 5720 6 6 ~
+: 5728 4 5  of
+: 5735 7 3  your
+: 5745 10 3  hand
+- 5764
+: 5884 5 1 As
+: 5890 5 8  long
+: 5898 5 5  as
+: 5906 6 8  we
+: 5914 4 5  are
+: 5920 10 5  flyin'
+- 5934
+: 5953 5 8 All
+: 5960 4 5  this
+: 5966 7 5  world
+: 5975 6 6  ain't
+: 5983 6 5  got
+: 5991 6 3  no
+: 5999 10 3  end
+- 6015
+: 6050 5 5 All
+: 6057 4 6  this
+: 6063 7 5  world
+: 6071 6 3  ain't
+: 6078 6 5  got
+: 6087 6 3  no
+: 6095 10 3  end
+E

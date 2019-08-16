@@ -1,0 +1,388 @@
+#ARTIST:Knorkator
+#TITLE:Alter Mann
+#MP3:Knorkator - Alter Mann.mp3
+#BPM:260.30
+#GAP:23050
+#VIDEO:KNORKATOR - Alter Mann (OFFICIAL VIDEO).mp4
+F 1 1 0 Dan
+F 5 1 0 ie
+F 7 1 0 la
+F 12 2 0  steht
+F 16 2 0  auf
+F 21 1 0  Jo
+F 23 2 0 nas,
+- 28
+F 33 2 0 Doch
+F 37 1 0  Jo
+F 39 2 0 nas
+F 45 3 0  liebt
+F 52 2 0  Va
+F 54 1 0 nes
+F 56 3 0 sa.
+- 62
+F 68 1 0 Va
+F 70 1 0 nes
+F 72 2 0 sa
+F 76 1 0  wär
+F 78 2 0  gern
+F 81 2 0  mit
+F 85 2 0  Lars
+F 91 1 0  zu
+F 93 4 0 samm',
+- 97
+F 98 1 0 Doch
+F 101 2 0  der
+F 105 1 0  fin
+F 107 1 0 det
+F 109 1 0  Me
+F 111 1 0 la
+F 113 2 0 nie
+F 117 1 0  bes
+F 119 2 0 ser.
+- 127
+F 133 2 0 Die
+F 137 1 0  al
+F 139 1 0 ler
+F 141 1 0 dings
+F 145 2 0  steht
+F 149 1 0  eh
+F 151 1 0 er
+F 153 2 0  auf
+F 157 3 0  Tim.
+- 162
+F 165 2 0 Tim
+F 169 1 0  wie
+F 171 1 0 der
+F 173 2 0 um
+F 177 1 0  fin
+F 179 1 0 det
+F 181 1 0  Jen
+F 183 1 0 ni
+F 185 1 0 fer
+F 189 4 0  cool.
+- 194
+F 197 1 0 Jen
+F 199 1 0 ni
+F 201 1 0 fer
+F 203 1 0  je
+F 205 1 0 doch
+F 209 1 0  ist
+F 211 1 0  ver
+F 213 1 0 liebt
+F 217 2 0  in
+F 221 1 0  Ke
+F 223 1 0 vin,
+- 228
+F 233 1 0 A
+F 235 1 0 ber
+F 237 1 0  Ke
+F 239 1 0 vin
+F 241 1 0  ist
+F 250 2 0  schwul.
+- 254
+F 259 2 0 To
+F 261 2 0 bi
+F 263 1 0 as
+F 265 1 0  ist
+F 269 1 0  scharf
+F 273 2 0  auf
+F 277 1 0  An
+F 279 1 0 ni
+F 281 3 0 ka
+- 286
+F 289 2 0 Und
+F 293 1 0  An
+F 295 1 0 ni
+F 297 2 0 ka
+F 301 1 0  ei
+F 303 1 0 gent
+F 305 2 0 lich
+F 309 2 0  auch
+F 313 2 0  auf
+F 317 3 0  ihn,
+- 320
+F 321 1 0 Doch
+F 325 2 0  Pech,
+F 329 1 0  denn
+F 331 1 0  er
+F 333 2 0  ist
+F 337 2 0  schon
+F 341 1 0  lan
+F 343 2 0 ge
+F 345 1 0  der
+F 349 3 0  Schwarm
+F 353 1 0  ih
+F 357 3 0 rer
+F 361 2 0  bes
+F 365 2 0 ten
+F 370 2 0  Freun
+F 374 4 0 din.
+- 379
+: 382 7 5 Zum
+: 390 10 4  Glück
+: 402 3 0  bin
+: 406 11 -3  ich
+: 418 3 -8  ein
+: 422 3 -3  al
+: 426 4 0 ter
+: 430 8 -3  Mann:
+- 443
+: 449 3 5 Das
+: 453 11 4  geht
+: 465 3 0  mich
+: 469 11 -3  al
+: 481 3 -8 les
+: 485 4 -5  nichts
+: 489 6 -3  mehr
+: 501 4 0  an
+: 505 6 2 ~,
+- 512
+: 513 3 5 Bin
+: 517 11 4  we
+: 529 3 0 der
+: 533 11 -3  he
+: 545 3 -8 te
+: 549 3 -5 ro
+: 553 3 0  noch
+: 557 7 -3  schwul
+- 570
+: 577 2 5 Und
+: 581 11 4  mir
+: 593 2 0  ge
+: 597 9 -3 nügt
+: 609 2 -8  ein
+: 613 2 -5  an
+: 617 10 -3 ge
+: 629 2 0 neh
+: 633 9 2 mer
+: 645 27 4  Stuhl.
+- 724
+F 773 1 0 Ha
+F 775 1 0 gen
+F 779 1 0  er
+F 781 1 0 schießt
+F 788 1 0  Se
+F 790 1 0 bast
+F 793 4 0 ian.
+- 800
+F 805 2 0 Sven
+F 810 1 0  ü
+F 812 1 0 ber
+F 814 3 0 fährt
+F 822 1 0  Ha
+F 826 3 0 gen.
+- 833
+F 837 2 0 Chris
+F 841 1 0 toph
+F 845 3 0 er
+F 852 1 0  er
+F 854 3 0 würgt
+F 862 4 0  Sven
+- 867
+F 868 1 0 Und
+F 870 2 0  wird
+F 874 2 0  von
+F 878 1 0  Yan
+F 880 1 0 nick
+F 884 2 0  er
+F 886 2 0 schla
+F 890 3 0 gen.
+- 897
+F 902 2 0 Björn
+F 906 1 0  und
+F 910 1 0  Joch
+F 912 2 0 en
+F 916 1 0  er
+F 918 2 0 mor
+F 922 2 0 den
+F 926 1 0  Yan
+F 928 2 0 nick.
+- 931
+F 934 2 0 Lu
+F 936 1 0 kas
+F 941 1 0  er
+F 943 1 0 le
+F 945 2 0 digt
+F 950 2 0  Björn
+F 954 2 0  und
+F 958 1 0  Joch
+F 960 2 0 en.
+- 963
+F 965 2 0 Ben
+F 969 1 0 ja
+F 972 3 0 min
+F 977 3 0  macht
+F 982 2 0  Lu
+F 985 2 0 kas
+F 990 1 0  al
+F 992 2 0 le
+- 995
+F 996 1 0 Und
+F 998 3 0  wird
+F 1003 2 0  von
+F 1007 4 0  Nils
+F 1013 1 0  er
+F 1015 1 0 stoch
+F 1019 3 0 en.
+- 1025
+F 1030 2 0 Nils
+F 1034 1 0  wird
+F 1038 1 0  da
+F 1040 1 0 rauf
+F 1042 2 0 hin
+F 1046 2 0  ab
+F 1050 2 0 ge
+F 1054 4 0 murkst
+- 1062
+F 1066 2 0 Von
+F 1070 1 0  Fe
+F 1072 1 0 lix
+F 1076 2 0  und
+F 1078 2 0  Thors
+F 1082 3 0 ten.
+- 1088
+F 1090 1 0 A
+F 1092 1 0 lex
+F 1094 2 0 an
+F 1098 2 0 der
+F 1102 4 0  killt
+F 1110 1 0  Thors
+F 1114 1 0 ten
+F 1116 1 0  und
+F 1118 2 0  Fe
+F 1122 3 0 lix
+- 1127
+F 1130 2 0 Und
+F 1134 4 0  wird
+F 1141 2 0  er
+F 1143 1 0 schos
+F 1145 3 0 sen.
+- 1149
+: 1151 5 5 Zum
+: 1159 11 4  Glück
+: 1171 4 0  bin
+: 1175 11 -3  ich
+: 1187 3 -8  ein
+: 1191 3 -3  al
+: 1195 3 0 ter
+: 1199 8 -3  Mann:
+- 1212
+: 1218 3 5 Das
+: 1222 11 4  geht
+: 1234 3 0  mich
+: 1238 11 -3  al
+: 1250 3 -8 les
+: 1254 2 -5  nichts
+: 1258 11 -3  mehr
+: 1270 3 0  an
+: 1274 6 2 ~.
+- 1281
+: 1282 3 5 Auf
+: 1286 11 4  dem
+: 1298 3 0  Bal
+: 1302 10 -3 kon
+: 1314 3 -8  hab
+: 1318 3 -3  ich
+: 1322 3 0  es
+: 1326 8 -3  gut
+- 1340
+: 1346 2 5 Und
+: 1350 9 4  schau,
+: 1362 3 0  was
+: 1366 10 -3  ihr
+: 1378 3 -8  da
+: 1382 2 -5  un
+: 1386 10 -3 ten
+: 1398 2 0  al
+: 1402 10 2 les
+: 1414 24 4  tut.
+- 1505
+: 1711 2 4 Ich
+: 1714 4 4  hab
+: 1719 4 4  eh
+: 1724 4 5  nicht
+: 1729 5 4  mehr
+: 1735 3 2  lan
+: 1738 4 2 ge
+- 1758
+: 1770 3 0 In
+: 1774 3 0  die
+: 1778 4 -1 sem
+: 1783 5 0  ir
+: 1789 5 2 disch
+: 1795 3 0 en
+: 1799 2 -1  Jam
+: 1802 2 -2 mer
+: 1805 22 -1 tal.
+- 1832
+: 1836 4 -3 Schlagt
+: 1841 4 -3  doch
+: 1846 3 -3  al
+: 1850 6 -1 les
+: 1857 5 0  in
+: 1863 3 2  Stück
+: 1866 20 2 e,
+- 1893
+: 1899 5 0 Es
+: 1905 5 0  is
+: 1911 5 0  mir
+: 1917 5 -1  so
+: 1923 3 -3  e
+: 1927 25 -8 gal.
+- 1968
+: 1983 5 5 Zum
+: 1991 11 4  Glück
+: 2003 4 0  bin
+: 2008 10 -3  ich
+: 2019 3 -8  ein
+: 2023 3 -3  al
+: 2027 3 0 ter
+: 2031 7 -3  Mann:
+- 2044
+: 2051 3 5 Das
+: 2055 11 4  geht
+: 2067 3 0  mich
+: 2071 11 -3  al
+: 2083 3 -8 les
+: 2087 3 -5  nichts
+: 2091 11 -3  mehr
+: 2103 3 0  an
+: 2107 6 2 ~
+- 2113
+: 2115 3 5 Und
+: 2119 11 4  wenn
+: 2131 3 0  die
+: 2135 11 -3  Er
+: 2147 3 -8 de
+: 2151 3 -3  ex
+: 2155 3 0 plo
+: 2159 8 -3 diert,
+- 2173
+: 2179 3 5 Ent
+: 2183 11 4 schul
+: 2195 3 0 digt,
+: 2199 11 -3  dass
+: 2211 3 -8  es
+: 2215 3 -5  mich
+: 2219 11 -3  nicht
+: 2231 3 0  in
+: 2235 11 2 tres
+: 2247 20 4 siert.
+- 2273
+: 2275 3 4 Ent
+: 2279 3 4 schul
+: 2283 3 5 digt,
+: 2287 3 4  dass
+: 2291 3 2  es
+: 2295 7 0  mich
+: 2303 7 2  nicht
+: 2311 15 -4  in
+: 2327 15 -1 ~
+: 2343 15 2 ~
+: 2359 15 4 ~
+: 2375 14 8 ~
+: 2390 16 11 ~
+: 2407 22 16 ~
+: 2430 8 8 tres
+: 2439 6 9 siert.
+E
