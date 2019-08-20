@@ -74,8 +74,14 @@ const convert = files.map(async file =>
 
     if (!lastLine || newLine)
     {
-      if (lastLine) lastLine.end = start;
-      lastLine = { start, end: null, syllables: [] };
+      if (lastLine)
+      {
+        const linePitches = lastLine.syllables.map(syllable => syllable.pitch);
+        lastLine.minPitch = Math.min(...linePitches);
+        lastLine.maxPitch = Math.max(...linePitches);
+        lastLine.end = start;
+      }
+      lastLine = { start, end: null, minPitch: null, maxPitch: null, syllables: [] };
       song.push(lastLine);
       if (newLine) return;
     }
