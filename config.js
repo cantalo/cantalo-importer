@@ -58,19 +58,21 @@ module.exports = [
     name: 'Alligatoah - Willst du',
     encoding: 'latin1',
   },
-  {
-    vid: 'BHLA4QIKRRk',
-    name: 'The Disco Boys - For You',
-    transformFields:
-    {
-      language: () => 'en',
-      gap: gap => gap - 500,
-    },
-  },
-  {
-    vid: 'X5kmM98iklo',
-    name: 'Wir Sind Helden - Nur Ein Wort',
-  },
+  // FIXME: Not matching
+  // {
+  //   vid: 'BHLA4QIKRRk',
+  //   name: 'The Disco Boys - For You',
+  //   transformFields:
+  //   {
+  //     language: () => 'en',
+  //     gap: gap => gap - 500,
+  //   },
+  // },
+  // FIXME: Stops in the middle and buffers for ever
+  // {
+  //   vid: 'X5kmM98iklo',
+  //   name: 'Wir Sind Helden - Nur Ein Wort',
+  // },
   {
     vid: 'xat1GVnl8-k',
     name: 'Bloodhound Gang - The bad touch',
@@ -78,6 +80,29 @@ module.exports = [
     {
       language: () => 'en',
       gap: gap => gap + 500,
+    },
+  },
+  {
+    vid: 'xyNWUY-wH5g',
+    name: 'Wir Sind Helden - Von Hier An Blind',
+    encoding: 'latin1',
+    transformFields:
+    {
+      videogap: () => 3,
+      gap: gap => gap - 2200,
+    },
+  },
+  {
+    vid: 'erG5rgNYSdk',
+    name: 'Weezer - Island In The Sun',
+  },
+  {
+    vid: 'bx1Bh8ZvH84',
+    name: 'Oasis - Wonderwall',
+    transformFields:
+    {
+      videogap: () => 10,
+      gap: gap => gap - 11000,
     },
   },
 ];
