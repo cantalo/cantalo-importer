@@ -4,7 +4,7 @@ const files = require('./config');
 const metaRegExpStr = '#(?<key>[a-z]+):(?<value>.+)';
 const metaRowRegExp = new RegExp(metaRegExpStr, 'gi');
 const metaRegExp = new RegExp(metaRegExpStr, 'i');
-const ignoreKeys = /^(cover|video|encoding)$/i;
+const ignoreKeys = /^(cover|video|encoding|background)$/i;
 const numberKeys = /^(bpm|gap|year|end|videogap)$/i;
 
 const songRegExpStr = '(?<type>[:*F-])\\s(?<bpm_start>[0-9]+)(\\s(?<bpm_length>[0-9]+)\\s(?<pitch>[0-9-]+)\\s(?<text>.+))?';
@@ -24,7 +24,14 @@ const metaDataReducer = (result, row) =>
 
   if (/language/i.test(key))
   {
-    value = languageMap[value];
+    if (value in languageMap)
+    {
+      value = languageMap[value];
+    }
+    else
+    {
+      console.warn('Language ', value, 'is not mapped to a language code.');
+    }
   }
 
   return {
@@ -41,7 +48,9 @@ const typeMapping = {
 
 const languageMap = {
   German: 'de',
+  Deutsch: 'de',
   English: 'en',
+  Englisch: 'en',
 };
 
 const convert = files.map(async file =>
