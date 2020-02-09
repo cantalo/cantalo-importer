@@ -1,0 +1,690 @@
+#ARTIST:Falco
+#TITLE:Egoist (Remix Version)
+#MP3:Falco - Egoist (Remix Version).mp3
+#EDITION:Dynamic_Duo
+#GENRE:Pop
+#LANGUAGE:German
+#BPM:328,53
+#GAP:5937,23
+#VIDEO:Falco_-_Egoist.flv
+: 0 3 -5 Die
+: 4 2 0  gan
+: 8 6 4 ze
+: 16 6 7  Welt
+: 24 6 5  dreht
+* 32 7 4  sich
+: 42 4 5  um
+: 48 6 4  mich
+- 56
+: 64 3 -5 Denn
+: 68 2 0  ich
+: 72 6 2  bin
+: 80 6 4  nur
+: 88 6 5  ein
+: 96 6 4  E
+: 104 2 2 go
+: 108 3 3 ~
+: 113 5 3 ist
+- 120
+: 128 2 -2 Der
+: 131 3 0  Mensch,
+: 136 6 4  der
+: 144 8 7  mir
+: 154 4 9  am
+: 160 6 4  nächs
+: 168 6 2 ten
+: 176 6 0  ist
+- 184
+: 192 2 -5 Bin
+: 196 2 0  ich,
+: 200 6 2  ich
+: 208 8 4  bin
+: 218 2 2  ei
+: 222 2 0 ~n
+: 226 4 2  E
+: 232 6 4 go
+: 240 6 0 ist
+- 248
+: 256 2 -5 Die
+: 260 2 0  gan
+: 264 6 4 ze
+* 272 6 7  Welt
+: 280 6 5  dreht
+: 288 6 4  sich
+: 296 6 5  um
+: 304 6 4  mich
+- 312
+: 320 3 -5 Denn
+: 324 2 0  ich
+: 328 6 2  bin
+: 336 6 4  nur
+: 344 6 5  ein
+: 352 6 4  E
+: 360 3 2 go
+: 364 3 4 ~
+: 370 4 4 ist
+- 376
+: 384 3 -5 Der
+: 388 2 0  Mensch,
+: 392 5 4  der
+: 400 6 7  mir
+: 408 5 9  am
+: 416 5 4  nächs
+: 424 7 2 ten
+: 434 6 0  ist
+- 442
+: 449 2 -5 Bin
+: 452 2 0  ich,
+: 457 4 2  ich
+: 464 5 4  bin
+: 473 3 2  ei
+: 477 2 0 ~n
+: 482 5 2  E
+: 489 5 4 go
+: 497 4 0 ist
+- 503
+F 626 4 0 Ganz
+F 632 1 0  o
+F 634 1 0 ben
+F 637 2 0  auf
+F 641 2 0  der
+F 645 2 0  Lis
+F 648 2 0 te
+- 651
+F 653 2 6 Ja
+F 657 3 8  da
+F 663 3 6  ste
+F 669 2 10 he
+F 673 4 4  ich
+- 679
+F 685 2 5 Du
+F 689 6 5  mußt
+F 697 3 5  mir
+F 701 4 5  schon
+F 706 2 5  ver
+F 709 5 5 zeih'n,
+- 715
+F 715 1 5 A
+F 717 2 5 ber
+F 721 3 5  ich
+F 730 3 5  lie
+F 735 3 5 be
+F 740 4 5  mich
+- 746
+F 758 3 5 Das
+F 762 2 5  ob
+F 766 2 5 wohl
+F 770 3 5  ich
+F 774 3 5  ü
+F 778 2 5 ber
+F 782 2 5 aus
+F 786 2 5  und
+- 789
+F 789 3 5 Durch
+F 793 2 5 aus
+F 797 3 5  kri
+F 801 2 5 tisch
+F 805 3 5  bin
+- 809
+F 809 3 5 Hab
+F 814 2 5  ich
+F 817 2 5  den
+F 821 2 5  gan
+F 825 2 5 zen
+F 829 3 5  lie
+F 833 2 5 ben
+F 837 2 5  lan
+F 841 2 5 gen
+F 845 3 5  Tag
+- 849
+F 850 10 5 Nur
+F 868 3 5  mich
+F 874 2 5  im
+F 878 4 5  Sinn
+- 884
+F 943 2 5 Ich
+F 946 4 5  ha
+F 953 4 5 be
+F 959 2 5  ü
+F 962 2 5 ber
+F 966 2 5  mei
+F 970 2 5 nem
+F 974 2 5  Bett
+- 977
+F 977 2 5 'nen
+F 980 4 5  Spie
+F 986 3 5 gel
+F 991 2 5  an
+F 994 2 5 ge
+F 998 4 5 bracht
+- 1004
+F 1006 4 5 Da
+F 1012 2 5 mit
+F 1018 3 5  mein
+F 1024 2 5  eig'
+F 1027 2 5 nes
+F 1030 3 5  Spie
+F 1034 2 5 gel
+F 1038 4 5 bild
+- 1042
+F 1042 2 5 Mir
+F 1046 2 5  mei
+F 1050 2 5 nen
+F 1054 2 5  Schlaf
+F 1058 2 5  be
+F 1062 2 5 wacht
+- 1066
+F 1070 2 5 ich
+F 1075 3 5  will
+F 1081 2 5  nie
+F 1086 2 5 man
+F 1090 2 5 den
+F 1093 2 5  wol
+: 1097 2 5 len
+- 1100
+F 1102 3 5 Nein
+F 1106 2 5  ich
+F 1110 2 5  will,
+F 1115 2 5  dass
+F 1119 2 5  man
+F 1122 3 5  mich
+F 1126 3 5  will
+- 1131
+F 1140 4 5 Bis
+F 1146 2 5  ich
+F 1150 3 5  krie
+F 1154 2 5 ge
+F 1158 3 5  was
+F 1163 2 5  ich
+F 1166 2 5  brau
+F 1170 2 5 che
+- 1173
+F 1175 3 5 Halt
+F 1179 2 5  ich
+F 1182 2 5  nie
+F 1186 7 5 mals
+F 1197 5 5  still
+- 1204
+: 1219 2 -5 Die
+: 1222 3 0  gan
+: 1227 4 4 ze
+: 1235 4 7  Welt
+: 1243 5 5  dreht
+: 1251 6 4  sich
+: 1259 3 5  um
+: 1266 6 4  mich
+- 1274
+: 1283 2 -5 Denn
+: 1287 2 0  ich
+: 1291 4 2  bin
+* 1299 4 4  nur
+* 1307 5 5  ein
+: 1315 5 4  E
+: 1323 2 2 go
+: 1326 2 4 ~
+: 1331 4 4 ist
+- 1337
+: 1346 2 -5 Der
+: 1350 3 0  Mensch,
+: 1356 3 4  der
+: 1362 6 7  mir
+: 1371 4 9  am
+: 1379 5 4  nächs
+: 1387 5 2 ten
+: 1396 3 0  ist
+- 1401
+: 1412 2 -5 Bin
+: 1415 2 0  ich,
+: 1420 3 2  ich
+: 1428 4 4  bin
+: 1436 3 2  ei
+: 1440 1 0 ~n
+: 1444 6 2  E
+: 1452 5 4 go
+: 1460 3 0 ist
+- 1465
+: 1475 2 -5 Die
+: 1479 2 0  gan
+: 1483 4 4 ze
+: 1491 6 7  Welt
+: 1499 3 5  dreht
+: 1507 5 4  sich
+: 1515 6 5  um
+: 1523 4 4  mich
+- 1529
+: 1539 2 -5 Denn
+: 1543 2 0  ich
+: 1547 5 2  bin
+: 1555 6 4  nur
+: 1563 6 5  ein
+: 1571 4 4  E
+: 1579 3 2 go
+: 1583 2 4 ~
+: 1587 5 4 ist
+- 1594
+: 1603 2 -2 Der
+: 1607 3 0  Mensch,
+: 1611 5 4  der
+: 1619 6 7  mir
+: 1627 5 9  am
+: 1635 5 4  nächs
+: 1643 5 2 ten
+: 1651 4 0  ist
+- 1657
+: 1667 2 -5 Bin
+: 1671 3 0  ich,
+: 1675 3 2  ich
+: 1683 6 4  bin
+: 1691 3 2  ei
+: 1695 2 0 ~n
+: 1699 5 2  E
+: 1707 5 4 go
+: 1715 5 0 ist
+- 1722
+F 1844 3 5 Lie
+F 1849 2 5 be
+F 1855 2 5  kommt
+F 1859 2 5  von
+F 1863 3 5  lie
+F 1868 2 5 ben
+- 1871
+: 1873 2 5 Und
+: 1876 2 5  ich
+: 1879 2 5  fan
+: 1882 2 5 ge
+: 1886 2 5  bei
+: 1891 2 5  mir
+: 1895 3 5  an
+- 1899
+F 1899 2 5 Und
+F 1902 2 5  mi
+F 1906 4 5 ~t
+F 1915 2 5  ein
+F 1919 2 5  bis
+F 1923 3 5 schen
+F 1927 4 5  Glück
+- 1931
+F 1931 2 5 Bist
+F 1935 2 5  ei
+F 1939 3 5 nes
+F 1943 2 5  Ta
+F 1947 3 5 ges
+F 1951 2 5  du
+F 1955 2 5  mal
+F 1959 3 5  dran
+- 1964
+F 1971 2 5 Ich
+F 1975 2 5  ge
+F 1979 2 5 be
+F 1983 2 5  mei
+F 1987 2 5 nem
+F 1991 3 5  E
+F 1995 2 5 go
+- 1998
+F 1999 2 5 Täg
+F 2003 2 5 lich
+F 2007 3 5  die
+F 2011 2 5  spe
+F 2015 2 5 ziel
+F 2019 3 5 le
+F 2023 5 5  Kur
+- 2029
+F 2031 2 5 Nur
+F 2035 5 5  meis
+F 2043 3 5 tens
+F 2047 3 5  geb'
+F 2051 2 5  ich
+F 2055 3 5  mir
+F 2059 3 5  gleich
+F 2063 2 5  al
+F 2067 3 5 les
+- 2071
+F 2071 2 5 Und
+F 2075 2 6  am
+F 2079 2 4  lieb
+F 2083 2 7 sten
+F 2087 6 4  pur
+- 2095
+: 2109 12 4 sure
+- 2123
+F 2167 2 5 An
+F 2170 2 5  je
+F 2173 2 5 dem
+F 2176 2 5  Tag
+F 2181 2 5  an
+F 2184 2 5  dem
+F 2188 2 5  es
+F 2192 2 5  mein
+F 2196 4 5  Welt
+F 2202 2 5 bild
+F 2207 2 5  län
+F 2211 2 5 ger
+F 2215 4 5  gibt
+- 2221
+F 2223 2 5 Er
+F 2227 4 5 ken
+F 2234 2 5 ne
+F 2239 3 5  ich
+F 2243 2 5  mich
+F 2247 4 5  selbst
+- 2251
+F 2251 2 5 Und
+F 2255 2 5  ich
+F 2259 3 5  bin
+F 2269 4 5  neu
+F 2275 3 5  ver
+F 2279 4 5 liebt
+- 2285
+F 2291 2 5 Die
+F 2295 2 5  Ster
+F 2299 2 5 ne
+F 2303 2 5  schrei
+F 2307 2 5 ben
+F 2311 2 5  mei
+F 2315 2 5 nen
+F 2319 3 5  Na
+F 2323 2 5 men
+- 2326
+F 2327 2 5 In
+F 2331 2 5  das
+F 2335 2 5  Fir
+F 2339 2 5 ma
+F 2343 4 5 ment
+- 2347
+F 2347 2 5 Da
+F 2351 2 5 mit
+F 2355 8 5  er
+F 2375 4 5  hell
+F 2381 2 5  in
+F 2385 2 5  Eu
+F 2389 2 5 ren
+F 2407 2 5  Au
+F 2411 2 5 gen
+F 2415 4 5  brennt
+- 2421
+: 2435 2 -5 Die
+: 2439 4 0  gan
+: 2445 4 4 ze
+: 2453 4 7  Welt
+: 2461 4 5  dreht
+: 2467 4 4  sich
+: 2475 4 5  um
+: 2483 6 4  mich
+- 2491
+: 2499 3 -5 Denn
+: 2503 3 0  ich
+: 2507 3 2  bin
+: 2515 6 4  nur
+: 2523 6 5  ein
+: 2531 6 4  E
+: 2539 3 2 go
+: 2543 2 4 ~
+: 2547 6 4 ist
+- 2555
+: 2563 2 -2 Der
+: 2567 2 0  Mensch,
+: 2571 4 4  der
+: 2579 4 7  mir
+: 2587 4 9  am
+: 2595 4 4  nächs
+: 2603 4 2 ten
+: 2611 4 0  ist
+- 2617
+: 2628 2 -5 Bin
+: 2632 2 0  ich,
+: 2637 4 2  ich
+: 2644 6 4  bin
+: 2652 4 2  ei
+: 2657 2 0 ~n
+: 2662 4 2  E
+: 2668 4 4 go
+: 2678 5 0 ist
+- 2685
+: 2693 3 -5 Die
+: 2697 3 0  gan
+: 2701 3 4 ze
+: 2709 6 7  Welt
+: 2717 6 5  dreht
+: 2725 4 4  sich
+: 2733 5 5  um
+: 2741 7 4  mich
+- 2750
+: 2757 2 -5 Denn
+: 2761 2 0  ich
+: 2765 4 2  bin
+: 2773 6 4  nur
+: 2781 6 5  ein
+: 2789 4 4  E
+: 2797 4 2 go
+: 2802 3 4 ~
+: 2807 6 4 ist
+- 2815
+: 2821 3 -2 Der
+: 2825 3 0  Mensch,
+: 2829 3 4  der
+: 2837 6 7  mir
+: 2845 5 9  am
+: 2853 3 4  nächs
+: 2861 4 2 ten
+: 2869 4 0  ist
+- 2875
+: 2885 3 -5 Bin
+: 2889 3 0  ich,
+: 2893 3 2  ich
+: 2901 6 4  bin
+: 2909 4 2  ei
+: 2914 2 0 ~n
+: 2917 4 2  E
+: 2925 4 4 go
+: 2935 4 0 ist
+- 2941
+F 3193 2 5 Was
+F 3197 2 5  ist
+F 3200 2 5  er
+F 3203 2 5  denn
+- 3207
+F 3209 3 5 Was
+F 3213 2 5  hat
+F 3216 2 5  er
+F 3219 2 5  denn
+- 3223
+F 3225 3 5 Was
+F 3229 2 5  kann
+F 3232 2 5  er
+F 3235 2 5  denn
+- 3239
+F 3241 3 5 Was
+F 3245 2 5  macht
+F 3248 2 5  er
+F 3251 2 5  denn
+- 3254
+F 3254 3 5 Was
+F 3259 2 5  red'
+F 3263 2 5  er
+F 3266 2 5  denn
+- 3269
+F 3270 2 5 Wer
+F 3273 2 5  glaubt
+F 3276 2 5  er
+F 3280 2 5  das
+F 3284 2 5  er
+F 3288 4 5  ist?
+- 3294
+F 3318 3 5 Was
+F 3322 2 5  ist
+F 3325 2 5  er
+F 3328 2 5  denn
+- 3332
+F 3334 2 5 Was
+F 3337 2 5  hat
+F 3340 2 5  er
+F 3343 2 5  denn
+- 3347
+F 3350 2 5 Was
+F 3354 2 5  kann
+F 3357 2 5  er
+F 3360 2 5  denn
+- 3364
+F 3366 3 5 Was
+F 3370 2 5  macht
+F 3373 2 5  er
+F 3376 2 5  denn
+- 3380
+F 3382 3 5 Was
+F 3386 2 5  red'
+F 3389 2 5  er
+F 3392 2 5  denn
+- 3396
+F 3398 2 5 Wer
+F 3401 2 5  glaubt
+F 3404 2 5  er
+F 3408 2 5  das
+F 3412 2 5  er
+F 3416 6 5  ist?
+- 3424
+: 3462 3 -5 Die
+: 3466 3 0  gan
+: 3470 3 4 ze
+: 3476 6 7  Welt
+: 3486 4 5  dreht
+: 3494 4 4  sich
+: 3500 4 5  um
+: 3508 6 4  mich
+- 3516
+: 3527 2 -5 Denn
+: 3530 2 0  ich
+: 3534 4 2  bin
+: 3542 6 4  nur
+: 3550 6 5  ein
+: 3558 4 4  E
+: 3566 3 2 go
+: 3570 2 4 ~
+: 3574 8 4 ist
+- 3584
+: 3590 2 -2 Der
+: 3594 4 0  Mensch,
+: 3600 4 4  der
+: 3606 6 7  mir
+: 3614 6 9  am
+: 3622 4 4  nächs
+: 3630 4 2 ten
+: 3636 4 0  ist
+- 3642
+: 3654 3 -5 Bin
+: 3658 2 0  ich,
+: 3662 2 2  ich
+: 3668 6 4  bin
+: 3678 3 2  ei
+: 3682 3 0 ~n
+: 3686 4 2  E
+: 3694 6 4 go
+: 3702 6 0 ist
+- 3710
+: 3718 3 -5 Die
+: 3722 2 0  gan
+: 3726 4 4 ze
+: 3734 6 7  Welt
+: 3742 6 5  dreht
+: 3750 6 4  sich
+: 3758 6 5  um
+: 3766 6 4  mich
+- 3774
+: 3782 2 -5 Denn
+: 3786 3 0  ich
+: 3791 4 2  bin
+: 3798 6 4  nur
+: 3806 6 5  ein
+: 3814 4 4  E
+: 3822 4 2 go
+: 3827 2 4 ~
+: 3830 7 4 ist
+- 3839
+: 3846 2 -2 Der
+: 3850 2 0  Mensch,
+: 3854 4 4  der
+: 3862 4 7  mir
+: 3870 6 9  am
+: 3878 6 4  nächs
+: 3886 6 2 ten
+: 3894 4 0  ist
+- 3900
+: 3910 2 -5 Bin
+: 3914 3 0  ich,
+: 3918 3 2  ich
+: 3926 4 4  bin
+: 3934 3 2  ei
+: 3938 2 0 ~n
+: 3942 6 2  E
+: 3950 5 4 go
+: 3958 4 0 ist
+- 3964
+: 3974 3 -5 Die
+: 3978 3 0  gan
+: 3982 3 4 ze
+: 3990 5 7  Welt
+: 3998 4 5  dreht
+: 4006 4 4  sich
+: 4014 5 5  um
+: 4022 5 4  mich
+- 4029
+: 4038 2 -5 Denn
+: 4042 2 0  ich
+: 4047 3 2  bin
+: 4054 4 4  nur
+: 4062 4 5  ein
+: 4070 5 4  E
+: 4078 4 2 go
+: 4083 2 4 ~
+: 4087 4 4 ist
+- 4093
+: 4103 2 -2 Der
+: 4107 2 0  Mensch,
+: 4111 5 4  der
+: 4119 4 7  mir
+: 4126 6 9  am
+: 4135 4 4  nächs
+: 4142 7 2 ten
+: 4153 4 0  ist
+- 4159
+: 4167 2 -5 Bin
+: 4171 3 0  ich,
+: 4176 4 2  ich
+: 4183 4 4  bin
+: 4192 3 2  ei
+: 4196 2 0 ~n
+: 4200 5 2  E
+: 4207 6 4 go
+: 4215 4 0 ist
+- 4221
+F 4217 3 5 Was
+F 4222 2 5  ist
+F 4225 2 5  er
+F 4228 2 5  denn
+- 4231
+F 4232 3 5 Was
+F 4236 2 5  hat
+F 4240 2 5  er
+F 4244 2 5  denn
+- 4246
+F 4246 3 5 Was
+F 4251 2 5  kann
+F 4255 2 5  er
+F 4260 2 5  denn
+- 4262
+F 4262 2 5 Was
+F 4266 2 5  macht
+F 4270 2 5  er
+F 4274 2 5  denn
+- 4278
+F 4280 2 5 Was
+F 4284 2 5  red'
+F 4287 2 5  er
+F 4290 2 5  denn
+- 4293
+F 4294 3 5 Wer
+F 4298 2 5  glaubt
+F 4302 2 5  er
+F 4306 2 5  das
+F 4310 3 5  er
+F 4314 6 5  ist?
+E
